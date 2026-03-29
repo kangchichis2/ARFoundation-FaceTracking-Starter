@@ -12,10 +12,9 @@
 ---
 
 ## 🛠 Environment / 개발 환경
-* **Unity Version:** 2022.3 LTS (Recommended)
+* **Unity Version:** 6000.3 LTS (Recommended)
 * **AR Foundation:** 5.1.x or higher
 * **Platform:** Android (ARCore)
-* **Testing Device:** Galaxy S21 / Pixel 6 (ARCore supported devices)
 
 ---
 
