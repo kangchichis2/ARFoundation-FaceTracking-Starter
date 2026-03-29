@@ -6,8 +6,8 @@
 ---
 
 ## 📺 YouTube Tutorial / 관련 영상
-* **[Part 1]** AR Foundation Official Samples Review / 공식 샘플 뽀개기: [Link]
-* **[Part 2]** Implementing Face Tracking in Your Project / 프로젝트에 직접 구현하기: [Link]
+* **[Part 1]** AR Foundation Official Samples Review / 공식 샘플 뽀개기: [https://youtu.be/f18VO4SCYWU?si=TMWvY2mrTl3joriT]
+
 
 ---
 
